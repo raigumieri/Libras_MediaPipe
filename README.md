@@ -1,4 +1,4 @@
-<h1 align="center"> Checkpoint 2 - Análise de Vogais em Libras com Python e C </h1>
+<h1 align="center"> Checkpoint 2 - Análise de Vogais em Libras com Arduino </h1>
 <div> 
 <h3> Integrantes do grupo: </h3> 
   <ul> 
