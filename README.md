@@ -24,3 +24,10 @@
 </ul>
 
 <img>
+
+<h2> Processo de Desenvolvimento </h2>
+<p> Antes de começar a desenvolver o código em python, será necessário fazer a instalação do Anaconda: </p>
+<p> link para baixar o Anaconda: https://www.anaconda.com/download </p>
+
+<p> Após essa etapa, selecione o CMD.exe e digite o comando: pip install matplotlib opencv-python notebook pyserial mediapipe </p>
+<h2> Dificuldades Encontradas</h2>
